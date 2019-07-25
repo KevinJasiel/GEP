@@ -1,5 +1,5 @@
 /* Slider */
-/*
+
 $(document).ready(function () {
   const $cont = $('.cont');
   const $slider = $('.slider');
@@ -13,7 +13,7 @@ $(document).ready(function () {
   let diff = 0;
 
   // Generating slides
-  let arrCities = ['Guatemala', 'Jasiel', 'New—York', 'Singapore', 'Prague']; // Change number of slides in CSS also
+  let arrCities = ['Guatemala', 'Jasiel', 'Kenneth', 'Peniel', 'Prague']; // Change number of slides in CSS also
   let numOfCities = arrCities.length;
   let arrCitiesDivided = [];
 
@@ -185,4 +185,6 @@ $(document).ready(function () {
   });
 
 });
-*/
+
+/* Centrar automaticamente el mapa */
+
